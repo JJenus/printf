@@ -1,2 +1,1 @@
-# printf
-ALX printf project for student collaboration.
+alx printf project for student collaboration of two members
